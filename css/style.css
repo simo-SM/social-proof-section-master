@@ -36,6 +36,7 @@ body{
 .container{
     width: 100%;
     max-width: 59rem;
+    background-color:var(--White);
 }
 .order-A{
     display: flex;
